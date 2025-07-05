@@ -1,5 +1,4 @@
 # model.py
-import dotenv
 import google.generativeai as genai
 import streamlit as st
 
