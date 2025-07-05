@@ -5,5 +5,5 @@ langchain-community
 python-dotenv
 python-multipart
 faiss-cpu
-sickit-learn
+scikit-learn        # <-- FIXED typo: "sickit-learn" ➝ "scikit-learn"
 google-generativeai
